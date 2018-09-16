@@ -1,0 +1,65 @@
+/*
+* @Author: www87
+* @Date:   2018-08-08 10:15:33
+* @Last Modified by:   www87
+* @Last Modified time: 2018-08-09 09:59:45
+*/
+
+@media screen and (min-width:320px){
+	html{
+		font-size: calc(320/750*100px);
+		}
+}
+@media screen and (min-width:360px){
+	html{
+		font-size: calc(360/750*100px);
+		}
+}
+@media screen and (min-width:375px){
+	html{
+		font-size: calc(375/750*100px);
+		}
+}
+@media screen and (min-width:411px){
+	html{
+		font-size: calc(411/750*100px);
+		}
+}
+@media screen and (min-width:412px){
+	html{
+		font-size: calc(412/750*100px);
+		}
+}
+@media screen and (min-width:414px){
+	html{
+		font-size: calc(414/750*100px);
+		}
+}
+@media screen and (min-width:750px){
+	html{
+		font-size: calc(750/750*100px);
+		}
+}
+@media screen and (min-width:768px){
+	html{
+		font-size: calc(768/750*100px);
+		}
+}
+@media screen and (min-width:1024px){
+	html{
+		font-size: calc(1024/750*100px);
+		}
+}
+*{
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		box-sizing:border-box;
+		font-family: "苹方";
+}
+i{
+	font-style: normal;
+}
+a{
+	text-decoration: none;
+}
